@@ -6,3 +6,13 @@
 - Ich verdiene mit diesem Projekt **kein** Geld.
 - DAWUMs Datenbank mit den einzelnen Wahlumfragen, Wahltrends und dem Parteizustimmungsindex wurde von Philipp Guttmann zusammengestellt ( [Quelle](https://dawum.de/Urheberrecht/) ) 
 
+
+
+# Vorschau
+	
+*Vorschau von diesem Programm:*
+	
+![Vorschau von diesem Programm](https://raw.githubusercontent.com/Floerianc/DAWUM/main/showcase.png)
+
+*Discord Webhook Vorschau:*
+![Discord Webhook Vorschau](https://github.com/Floerianc/DAWUM/blob/main/discord.png?raw=true)
